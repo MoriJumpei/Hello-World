@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2026
+---
+
 # ソフトウェア工学　講義まとめ
 
 ##　第1回
